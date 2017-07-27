@@ -1,0 +1,8 @@
+@import url(format.css);
+@import url(index.css);
+#text {
+  width: 90%;
+  text-align: center;
+  margin: 0 auto; }
+  #text a img {
+    width: 50%; }

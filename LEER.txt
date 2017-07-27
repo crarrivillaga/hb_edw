@@ -1,0 +1,5 @@
+Así como cuando por fin se pudo montar la página a drive? eso se merece un trago y hasta dos :3
+
+Bueno, les explico, la página principal es el archivo que se llama index.html, al final de esa página hay un juego de preguntas, la idea es que al responder bien las preguntas, saltara al archivo surprise.html. Si se responde mal, salta al archivo nop.html. Pudiera explicarles como configurar la broma para que el juego funcione pero es ladilla u.u
+
+Básicamente eso es lo que habria que explicar para que vieran bien la página, el resto bueno, se los dejo a uds ^^

@@ -1,0 +1,15 @@
+@import url(format.css);
+@import url(index.css);
+.slideshow {
+  width: 100%; }
+  .slideshow .slide {
+    width: auto; }
+    .slideshow .slide img {
+      width: 100%; }
+#text {
+    width: 70%;
+    margin: 0 auto;
+}
+#text img {
+    width: 100%;
+}
